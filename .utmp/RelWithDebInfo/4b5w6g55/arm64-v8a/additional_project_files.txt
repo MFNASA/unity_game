@@ -1,0 +1,17 @@
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+E:\TUGAS KULIAH SAEP\all tugas kuliah\tugas kuliah smt 6\game\GAMEKU\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

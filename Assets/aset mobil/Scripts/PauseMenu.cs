@@ -30,13 +30,13 @@ namespace GameMenu
 
         public void MainMenu()
         {
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("main menu");
             Time.timeScale = 1;
         }
 
         public void Restart()
         {
-            SceneManager.LoadScene("Game");
+            SceneManager.LoadScene("GameScene");
             Time.timeScale = 1;
         }
 
